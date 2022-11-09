@@ -28,3 +28,4 @@ void main() {
     }
     printf("ROLL_NO=%d\nName=%s", st[pos].R_no,st[pos].name);
 }
+//Problem_1
